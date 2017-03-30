@@ -1,11 +1,11 @@
 import firebase from 'firebase';
 
 const config = {
-  apiKey: 'AIzaSyAhWMYWhBG2UvsNMZ-qVLbaqVZ5aTzwsNU',
-  authDomain: 'hot-takes.firebaseapp.com',
-  databaseURL: 'https://hot-takes.firebaseio.com',
-  storageBucket: 'hot-takes.appspot.com',
-  messagingSenderId: '823384132241'
+  apiKey: 'AIzaSyCGXInxyFaec9E1yd_mmHvi04m2hxdut00',
+  authDomain: 'hot-takes-1788f.firebaseapp.com',
+  databaseURL: 'https://hot-takes-1788f.firebaseio.com',
+  storageBucket: 'hot-takes-1788f.appspot.com',
+  messagingSenderId: '223965560811'
 };
 
 firebase.initializeApp(config);
